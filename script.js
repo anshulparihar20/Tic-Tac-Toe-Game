@@ -1,7 +1,5 @@
 console.log("Welcomne to Tic Tac Toe")
-let power;
 
-let su ;
 let music = new Audio("music.mp3");
 let turnM = new Audio("ting.mp3");
 let gameOver = new Audio("gameover.mp3");
